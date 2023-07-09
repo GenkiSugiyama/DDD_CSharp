@@ -1,4 +1,4 @@
-﻿using DDD.WebForm.Common;
+﻿using DDD.WinForm.Common;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDD.WebForm.Data
+namespace DDD.WinForm.Data
 {
     public static class WeatherSQLite
     {

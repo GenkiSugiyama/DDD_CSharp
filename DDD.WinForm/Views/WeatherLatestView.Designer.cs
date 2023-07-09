@@ -1,4 +1,4 @@
-﻿namespace DDD.WebForm
+﻿namespace DDD.WinForm
 {
     partial class WeatherLatestView
     {

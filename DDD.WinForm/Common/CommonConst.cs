@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDD.WebForm.Common
+namespace DDD.WinForm.Common
 {
     public static class CommonConst
     {

@@ -1,5 +1,5 @@
-﻿using DDD.WebForm.Common;
-using DDD.WebForm.Data;
+﻿using DDD.WinForm.Common;
+using DDD.WinForm.Data;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DDD.WebForm
+namespace DDD.WinForm
 {
     public partial class WeatherLatestView : Form
     {
